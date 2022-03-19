@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @P1llzZ. I am begginer from Russia. Wanna lern how to code and do cool things :)
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothig LMAO. Need more practice to do something cool
 - 📫 How to reach me: https://vk.com/jotaroboi or fedor.burinskiy@gmail.com
 
